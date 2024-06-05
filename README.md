@@ -20,7 +20,7 @@ This repository contains the code for a profile card that displays user informat
 -**Social Media Links:** Update the href attributes in the <a> tags to link to your own social media profiles.
 -**Hire Me Button:** Modify the href attribute in the <a> tag to change the email address.
 
-## TO EXPERIENCE THE PROJECT, CLICK THIS LINK :-> https://profile-card-sujithra-devi-m-.glitch.me
+TO EXPERIENCE THE PROJECT, CLICK THIS LINK :-> https://profile-card-sujithra-devi-m-.glitch.me
 
 ## Thank you
 If you guys have any project ideas , feel free to reach out me !!
