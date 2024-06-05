@@ -2,9 +2,9 @@
 This repository contains the code for a profile card that displays user information, social media links, and a "Hire Me" button. The card is styled with modern design elements and features a clean, responsive layout.
 
 ## Features
-1.**Profile Picture:** Displays a circular profile picture.
-2.**User Information:** Shows the user's name and a brief description.
-3.**Social Media Links:** Provides clickable icons for LinkedIn, Twitter, Instagram, and GitHub.
+1.**Profile Picture:** Displays a circular profile picture.**
+2.**User Information:** Shows the user's name and a brief description.**
+3.**Social Media Links:** Provides clickable icons for LinkedIn, Twitter, Instagram, and GitHub.**
 4.**Hire Me Button:** A call-to-action button that opens an email client to contact the user.
 5.**Responsive Design:** The card is centered and styled to be responsive across different screen sizes.
 
