@@ -23,6 +23,11 @@ This repository contains the code for a profile card that displays user informat
 TO EXPERIENCE THE PROJECT, CLICK THIS LINK :-> https://profile-card-sujithra-devi-m-.glitch.me
 
 ## Thank you
-If you guys have any project ideas , feel free to reach out me !!
-Email: sujithradevi508@gmail.com
-Linkedin: sujithradevi-m
+-*If you guys have any project ideas , feel free to reach out me !!*
+
+-**📫Email**: sujithradevi508@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sujithradevi-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujithradevi-m" height="30" width="40" /></a>
+<a href="https://instagram.com/_.suzzyy____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.suzzyy____" height="30" width="40" /></a>
+</p>
